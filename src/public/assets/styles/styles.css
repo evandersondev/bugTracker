@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+.menu {
+  background-color: #706fd3;
+}
+
+.menu a {
+  width: 100%;
+  color: #fff;
+  font-size: 26px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.menu a:hover {
+  color: #f7f1e3;
+}
+
+.spannig {
+  color: #666;
+}
+
+form .color-btn {
+  background-color: #218c74;
+  color: #fff;
+  font-weight: bold;
+}
